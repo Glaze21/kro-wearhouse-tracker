@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kro-wearhouse-tracker",
+  "private_key_id": "508b25bf9c79eb04c60b88965ca21e240049e039",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCvWSBG9B+Bv3dy\nmCCt5JAvU2YDE9ojpUQPDvkYjWdLa8zWNn4Wkj7ihv/Qt280DzgIXeM634CyAYeG\nzYvRrnALj6ZCg6U9o3kcLGe2Os6ozXKiprOYewHUc0ZsnAkqHIb0a823ThFt12tl\niwGUTrnRcHfxxhynQZV1WN353EOCA+x3yieuT2YPG6sOu5aoUS4hDXFhQeKD6yxu\ndX07a+aFXNVNaY7+kcXZZCKPEnnQJhIRctw39xU5o2BDDx8snczghE91b4BzpoP1\naMbynO6T6aunmzvk+LhyLRSN1K94l1g+fKR7rVlLBPf3AxRohTziqfvvVa8mKxKz\n6cOgkejJAgMBAAECggEAV3uW7+9yHLCi7ohZnYhwKzxno9duuOQGTaEBxC8gPu+8\nlY9AXxB90VTbIo2yLH3/TaVR7hh+Q9Ehha7dODLYcdwsbfjyIwuBK/43jCJQ4sUF\nkYKsDcIpCo6srxk2NU1gQ2fZjb+kUHHugg3VLuIMMSL0pKpbt1KwN4irzrIG+EEZ\nZgtVOziXzqI41222EnBQOe6IQIIGvJ/562X9itgNFLFoQN7G+YnZ2j0KkmJm6SfK\n63Gvp+KLsiWGuIusLhKRn69vOYMaFjDGwAOmsjgehPc/4Ef88XhEUYIddTSXTLRx\n0MahHkB3cYrXhyM+kc8I7XbQFUh/ohMelIxohAj0ZQKBgQDzwna8JRB4fN+UWhjS\n/2MVgo6Vt51wFZLxkUJEIFUY9cKy8O8Hzil7jvlHIjeRXS3Htq4P9CMRnYMyBML+\n086iRA03k05qxkDyKCp6vp90RV3s7Agd7Ts9P+IXnE6+9G/gH0O5aa4llwe6bmnE\nwpV8svOxSgtNJRQVOpD9S49PEwKBgQC4JzsjhDB5f2WUxULheSrU+nxd6c970D8b\n1z4ZQcEQJw0qRlAsATJzpS1puO8pF7ZDlImhPtLVy1PrNPgqUtpdbiVIr049hup/\np5ic4P/QH/pgajI/yZV1a4nf5MTEWxEwuS1s6EDgvfQyYHN/Qj09slVDu0NoTW/V\ncc6dkYM4MwKBgQChbxmJkxZsZW8A5gZovsBVP4jEuLzovTD7EROM4Mja5fAS6CO1\nzKCGdvK6XHvmpooqKN7wK+SJxwJbPvIRKB9CMcV7F/CoIDJk7ZrsfZBGxaXlwY/C\nmhlQgB1xO5CfQG1TRgFpKwctV+/DVVpw99leo3lm4b3IUpURVh8t0TvQxwKBgQCT\npChe1jmC/2eyueBgIyP68wRIyw7lJlWifZQ07anayGRes1bNoPwRCan6LCHaoT8o\nuWsKkvK4I7cZSTN5w0l9RLSxrJMe8w8I35aUmDOgajLzn9C/oV+pb1lv3tr+zkBe\n/ufze9WgGcsxpHCU48dzsol3ryhg9EyoJQFRBPveTwKBgE8HOm+UnCTZMGrPT7p/\n4MsDxKE9Z6EGwqUUUwagZ9BboadR2aWJpY0eMGKOi8+t2H8zm4RTVvF1c2jB+R7P\n8JZbLp+0RAdZN9Y3aB+Uqs49d/eAOT3knBA+M43bULuviqCsSx05E6fsTP5Hz9iN\ntUEbuBIafnxHZ+ZGzXyN/+Sn\n-----END PRIVATE KEY-----\n",
+  "client_email": "firestore-backup@kro-wearhouse-tracker.iam.gserviceaccount.com",
+  "client_id": "115127468196431805811",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firestore-backup%40kro-wearhouse-tracker.iam.gserviceaccount.com"
+}
